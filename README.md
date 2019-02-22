@@ -1,0 +1,2 @@
+# primer
+Sandık uygulaması
