@@ -1,2 +1,2 @@
 # primer
-Sandık uygulaması
+Angular Sandık uygulaması
